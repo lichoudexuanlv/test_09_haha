@@ -11,7 +11,7 @@ class TestSearch:
 
 
     def test_03(self):
-        assert 1
+        assert 0
 
     def test_04(self):
         assert 1
